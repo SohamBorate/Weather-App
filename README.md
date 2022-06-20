@@ -1,8 +1,8 @@
 # Running locally
 
 -   ## Proxy
-Download packages.
-Add your `OpenWeatherMap` `API_KEY` to `.env`.
+Download packages.<br>
+Add your `OpenWeatherMap` `API_KEY` to `.env`.<br>
 Start local server.
 ```
 > npm install
@@ -25,9 +25,9 @@ Download packages and build.
 ```
 
 -   ## Website
-Almost same steps as backend.
-Download packages.
-Put in your proxy server url at `/public/js/index.js`.
+Almost same steps as backend.<br>
+Download packages.<br>
+Put in your proxy server url at `/public/js/index.js`.<br>
 Start local server.
 ```
 > npm install
