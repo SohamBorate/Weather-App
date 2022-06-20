@@ -1,0 +1,10 @@
+Desktop/node_modules
+Desktop/out
+Desktop/package-lock.json
+
+Proxy/node_modules
+Proxy/package-lock.json
+Proxy/.env
+
+Website/node_modules
+Website/package-lock.json
